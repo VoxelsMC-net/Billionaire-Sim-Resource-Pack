@@ -1,0 +1,6 @@
+HUD Backgrounds     A000-A019
+Currencies          A020-A059
+Ranks               A100-A199
+
+
+Logo                AFFF 

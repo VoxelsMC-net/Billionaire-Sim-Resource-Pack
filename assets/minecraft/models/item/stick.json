@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "custom:item/lemonade_stand"},
+    { "predicate": {"custom_model_data": 2}, "model": "custom:item/newspaper_delivery"},
+    { "predicate": {"custom_model_data": 3}, "model": "custom:item/car_wash"},
+    { "predicate": {"custom_model_data": 4}, "model": "custom:item/pizza_shop"},
+    { "predicate": {"custom_model_data": 5}, "model": "custom:item/donut_shop"},
+    { "predicate": {"custom_model_data": 6}, "model": "custom:item/shrimp_boat"},
+    { "predicate": {"custom_model_data": 7}, "model": "custom:item/hockey_team"},
+    { "predicate": {"custom_model_data": 8}, "model": "custom:item/movie_studio"},
+    { "predicate": {"custom_model_data": 9}, "model": "custom:item/bank"},
+    { "predicate": {"custom_model_data": 10}, "model": "custom:item/oil_company"},
+    { "predicate": {"custom_model_data": 11}, "model": "custom:item/moon_shoes"},
+    { "predicate": {"custom_model_data": 12}, "model": "custom:item/gravity_booth"},
+    { "predicate": {"custom_model_data": 13}, "model": "custom:item/cloning_machine"},
+    { "predicate": {"custom_model_data": 14}, "model": "custom:item/moon_express"},
+    { "predicate": {"custom_model_data": 15}, "model": "custom:item/oxygen_bar"},
+    { "predicate": {"custom_model_data": 16}, "model": "custom:item/helium3_farm"},
+    { "predicate": {"custom_model_data": 17}, "model": "custom:item/cheese_mine"},
+    { "predicate": {"custom_model_data": 18}, "model": "custom:item/amusement_park"},
+    { "predicate": {"custom_model_data": 19}, "model": "custom:item/werewolf_colony"},
+    { "predicate": {"custom_model_data": 20}, "model": "custom:item/giant_laser"}
+  ]
+}
