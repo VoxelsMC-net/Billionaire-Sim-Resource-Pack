@@ -3,14 +3,14 @@
         {"type":"bitmap","file":"minecraft:ui/hud/background/standard.png","ascent":8,"height":69,"chars":["ꀀ"]}, 
         {"type":"bitmap","file":"minecraft:ui/hud/logo.png","ascent":8,"height":9,"chars":["꿿"]}, 
 
-        {"type":"bitmap","file":"minecraft:ui/currency/money.png","ascent":-6,"height":14,"chars":["ꀠ"]},
-        {"type":"bitmap","file":"minecraft:ui/currency/money.png","ascent":-20,"height":12,"chars":["ꀡ"]},
-        {"type":"bitmap","file":"minecraft:ui/currency/diamond.png","ascent":-42,"height":8,"chars":["ꀢ"]},
-        {"type":"bitmap","file":"minecraft:ui/currency/investor.png","ascent":-13,"height":10,"chars":["ꀣ"]},
-        {"type":"bitmap","file":"minecraft:ui/hud/players.png","ascent":-15,"height":7,"chars":["ꀤ"]},
+        {"type":"bitmap","file":"minecraft:ui/currency/money_earth.png","ascent":-6,"height":14,"chars":["ꀠ"]},
+        {"type":"bitmap","file":"minecraft:ui/currency/money_earth.png","ascent":-20,"height":12,"chars":["ꀡ"]},
+        {"type":"bitmap","file":"minecraft:ui/currency/diamond.png","ascent":-41,"height":8,"chars":["ꀢ"]},
+        {"type":"bitmap","file":"minecraft:ui/currency/investor.png","ascent":-11,"height":12,"chars":["ꀣ"]},
+        {"type":"bitmap","file":"minecraft:ui/hud/playercount.png","ascent":-12,"height":12,"chars":["ꀤ"]},
 
-        {"type":"bitmap","file":"minecraft:ui/currency/money.png","ascent":10,"height":14,"chars":["ꁀ"]},
-        {"type":"bitmap","file":"minecraft:ui/currency/money.png","ascent":8,"height":12,"chars":["ꁁ"]},
+        {"type":"bitmap","file":"minecraft:ui/currency/money_earth.png","ascent":10,"height":14,"chars":["ꁀ"]},
+        {"type":"bitmap","file":"minecraft:ui/currency/money_earth.png","ascent":8,"height":12,"chars":["ꁁ"]},
         
         {"type":"bitmap","file":"minecraft:ranks/owner.png","ascent":8,"height":9,"chars":["ꄀ"]},
         {"type":"bitmap","file":"minecraft:ranks/admin.png","ascent":8,"height":9,"chars":["ꄁ"]},
